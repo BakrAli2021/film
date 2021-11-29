@@ -295,6 +295,8 @@ body::-webkit-scrollbar {
     transform: translateY(-54px) rotate( 320deg);
     transform-origin: left;
     opacity: 0;
+    color: white;
+    font-weight: bold;
 }
 
 .main_slider_box:hover .main_slidr_txt .quality,
