@@ -15,7 +15,7 @@ body {
 }
 
 body.loading {
-    animation: fadein 2s ease-in-out;
+    animation: fadein 1.5s ease-in-out;
 }
 
 ul {
